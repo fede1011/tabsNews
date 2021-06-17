@@ -1,0 +1,7 @@
+{
+  "name": "tabsNews",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
